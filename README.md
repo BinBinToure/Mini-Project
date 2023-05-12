@@ -22,7 +22,7 @@ Spring, Selenium, JSP  <br>
 
 <h1>📌Contributions / 맡은 역할</h1> <br>
 
-▶ 데이터베이스 설계
-▶ SQL문 작성
-▶ 파이썬 Selenium 사용해 DB에 데이터 저장
+▶ 데이터베이스 설계 <br>
+▶ SQL문 작성 <br>
+▶ 파이썬 Selenium 사용해 DB에 데이터 저장 <br>
 <hr>
